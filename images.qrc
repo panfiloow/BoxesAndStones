@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image"/>
+    <qresource prefix="/">
+        <file>fon.png</file>
+        <file>box.png</file>
+        <file>congratulation.png</file>
+        <file>rulespng.png</file>
+    </qresource>
+</RCC>
